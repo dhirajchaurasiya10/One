@@ -1,7 +1,6 @@
 # one
 
-A new Flutter project .
-!!Just for basic integration with Firebase!!
+A new Flutter project . !!Just for basic integration with Firebase!!
 
 ## Getting Started
 
