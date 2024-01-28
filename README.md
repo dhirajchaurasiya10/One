@@ -1,6 +1,7 @@
 # one
 
-A new Flutter project.
+A new Flutter project .
+!!Just for basic integration with Firebase!!
 
 ## Getting Started
 
